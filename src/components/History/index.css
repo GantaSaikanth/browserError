@@ -1,0 +1,32 @@
+.bg-container {
+  background-color: #fff;
+  height: 100vh;
+  background-size: cover;
+}
+.navbar {
+  background-color: #3367d6;
+  height: 20vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.search-image {
+  height: 30px;
+  width: 30px;
+}
+.input {
+  background-color: #2850a7;
+  padding: 10px;
+}
+.image-contaienr {
+  background-color: #2850a7;
+}
